@@ -7,7 +7,13 @@ Submitted by: **Vuong Nguyen**
 
 Time spent: **5** hours spent in total
 
-<div style="position: relative; padding-bottom: 144.83221476510067%; height: 0;"><iframe src="https://www.loom.com/embed/b319ce4dcd784909b9e062e4bfbd0de0?sid=295fe9c7-bf4d-4107-8c31-ae35d39fcc89" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/b319ce4dcd784909b9e062e4bfbd0de0">
+    </a>
+    <a href="https://www.loom.com/share/b319ce4dcd784909b9e062e4bfbd0de0">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b319ce4dcd784909b9e062e4bfbd0de0-with-play.gif">
+    </a>
+  </div>
 
 ## Required Features
 
